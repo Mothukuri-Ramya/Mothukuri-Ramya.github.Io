@@ -306,10 +306,10 @@ section .title::after{
 .skills-content .right .react::before{
     width: 70%;
 }
-/*.skills-content .right .node::before{
+.skills-content .right .SQL::before{
     width: 70%;
 }
-.skills-content .right .mongodb::before{
+/*.skills-content .right .mongodb::before{
     width: 70%;
 }*/
 .skills-content .right .python::before{
