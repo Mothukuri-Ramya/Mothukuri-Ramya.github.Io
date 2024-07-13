@@ -306,7 +306,7 @@ section .title::after{
 .skills-content .right .react::before{
     width: 70%;
 }
-.skills-content .right .SQL::before{
+.skills-content .right .sql::before{
     width: 70%;
 }
 /*.skills-content .right .mongodb::before{
